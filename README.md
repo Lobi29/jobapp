@@ -37,5 +37,5 @@ Discover your dream job with our React Native app! Access a vast database of job
     <img src="./assets/readme/home.jpg" width="200" alt="img">
     <img src="./assets/readme/description.jpg" width="200" alt="img">
     <img src="./assets/readme/nearby.jpg" width="200" alt="img">
-    <img src="./assets/readme/nearby.jpg" width="200" alt="img">
+    <img src="./assets/readme/loading.jpg" width="200" alt="img">
 </h1>
